@@ -16,7 +16,7 @@
   <h3 align="center">Check in</h3>
 
   <p align="center">
-    ss
+    BackEnd project application built in Java and Spring Boot during the NLW 15 by Rocktseat.
     <br />
     <a href="https://github.com/luk3mn/passin_nlw_unite/README.md"><strong>Explore the docs »</strong></a>
     <br />
@@ -126,6 +126,13 @@ _Before starting this application in your local environment, it'll be necessary 
 - [x] Creating and configuring database
 - [x] Creating database migrations
 - [x] Creating entities to represent the data
+- [x] Creating a **EventService**
+- [x] Creating a **AttendeeService**
+- [x] Creating POST and GET endpoint to Event and Attendee
+  - [ ] GET /events/{eventId}/attendees
+  - [x] GET /events/{eventId}
+  - [x] POST /events
+- [ ] Exceptions treatment
 
 
 <p align="right">(<a href="#passin_nlw_unite">back to top</a>)</p>
@@ -187,5 +194,3 @@ If you have any feedback, please reach out to us at lucasnunes2030@gmail.com
 [Java-url]: https://www.java.com/en/
 [Spring]: https://img.shields.io/badge/SrpingBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=ffffff
 [Spring-url]: https://spring.io/projects/spring-boot
-[PostgreSQL]: https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff
-[PostgreSQL-url]: https://www.postgresql.org/
