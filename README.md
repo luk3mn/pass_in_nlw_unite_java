@@ -129,10 +129,10 @@ _Before starting this application in your local environment, it'll be necessary 
 - [x] Creating a **EventService**
 - [x] Creating a **AttendeeService**
 - [x] Creating POST and GET endpoint to Event and Attendee
-  - [ ] GET /events/{eventId}/attendees
+  - [x] GET /events/{eventId}/attendees
   - [x] GET /events/{eventId}
   - [x] POST /events
-- [ ] Exceptions treatment
+- [x] Exceptions treatment
 
 
 <p align="right">(<a href="#passin_nlw_unite">back to top</a>)</p>
