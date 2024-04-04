@@ -126,13 +126,20 @@ _Before starting this application in your local environment, it'll be necessary 
 - [x] Creating and configuring database
 - [x] Creating database migrations
 - [x] Creating entities to represent the data
-- [x] Creating a **EventService**
-- [x] Creating a **AttendeeService**
+- [x] Creating an **EventService**
+- [x] Creating an **AttendeeService**
 - [x] Creating POST and GET endpoint to Event and Attendee
   - [x] GET /events/{eventId}/attendees
   - [x] GET /events/{eventId}
   - [x] POST /events
-- [x] Exceptions treatment
+- [x] Exceptions handling
+- [x] Adding new features to AttendeeService
+- [ ] adding new endpoints
+  - [x] POST /events/{eventId}/attendees
+  - [x] GET /attendees/{attendeeId}/badge
+  - [ ] POST /attendees/{attendeeId}/check-in
+- [ ] CheckInService
+
 
 
 <p align="right">(<a href="#passin_nlw_unite">back to top</a>)</p>
