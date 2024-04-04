@@ -139,7 +139,7 @@ _Before starting this application in your local environment, it'll be necessary 
   - [x] GET /attendees/{attendeeId}/badge
   - [x] POST /attendees/{attendeeId}/check-in
 - [x] CheckInService
-
+- [x] Exception Handler
 
 
 <p align="right">(<a href="#passin_nlw_unite">back to top</a>)</p>
