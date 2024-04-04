@@ -134,11 +134,11 @@ _Before starting this application in your local environment, it'll be necessary 
   - [x] POST /events
 - [x] Exceptions handling
 - [x] Adding new features to AttendeeService
-- [ ] adding new endpoints
+- [x] adding new endpoints
   - [x] POST /events/{eventId}/attendees
   - [x] GET /attendees/{attendeeId}/badge
-  - [ ] POST /attendees/{attendeeId}/check-in
-- [ ] CheckInService
+  - [x] POST /attendees/{attendeeId}/check-in
+- [x] CheckInService
 
 
 
