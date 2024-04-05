@@ -57,13 +57,40 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<!-- ![Home](assets/diagram.png) -->
+<img src="./assets/diagram.png">
 
+> The pass.in is an application about **Events ateendees management**.
+- The app allows the organizer to register for an event and open a public registration page.
+- Registered participants can issue a credential for check-in on the day of the event.
+- The system will scan the participant's credentials to allow entry to the event.
+
+### Requirements
+
+- The organizer must be able to register a new event;
+- The organizer must be able to view event data;
+- The organizer must be able to view a list of attendees
+
+- The attendees must be able to register themself in an event;
+- The attendees must be able to view the event badge;
+- The attendees must be able to make the check-in at the event;
+
+### Business rules
+
+- The attendees just can register once for an event.
+- The attendees just can register for an event that isn't full;
+- The attendees just can make the check-in for an event once;
+
+### Nonfunctional requirements
+
+- The check-in for the event will be accomplished through QRCode;
 
 <p align="justify">
-  In this project, we were able to find subjects like, such as: 
+  In this project, we can find subjects such as: 
 
-  - **ORM;** 
+  - **Java;** 
+  - **Maven;** 
+  - **Spring Boot;** 
+  - **DTOs;** 
   - **JPA;** 
   - **Rest API;**
 </p> 
@@ -113,6 +140,10 @@ _Before starting this application in your local environment, it'll be necessary 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+<img src="./assets/usage_event.jpg">
+<img src="./assets/usage_badge_new.jpg">
+<img src="./assets/usage_badge.jpg">
+
 
 
 <!-- Deploy -->
